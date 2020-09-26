@@ -21,5 +21,4 @@ Please find my [Abstract](https://github.com/deepacefic/Covid19/blob/master/Abst
 
 ![Ind](india.png)
 
-Forecasting
 ![forcaste](pic.png)
